@@ -43,7 +43,7 @@
  <br><br><div class="card">
  
  <div class="card-header bg-primary">
- <h1 class="text-white text-center"> Dodaj novog clana </h1>
+ <h1 class="text-white text-center"> Dodaj novog clana: </h1>
  </div><br>
 
  <label> Ime i prezime: </label>
